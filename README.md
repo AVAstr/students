@@ -1,8 +1,7 @@
 # AVAstr_infra
 ####(Training Repository OTUS)
 ---
-**<details><summary>03_Homework (Git)
-</summary>**
+**<details><summary>03_Homework (Git)</summary>**
 **В рамках HW было изучено:**
 
   * Работа с **`Git`**:
@@ -17,23 +16,19 @@
    * Сделал Pull Request для проверки HW
 </details>
 
-**<details><summary>04_Homework (ChatOps)
-</summary>**
+**<details><summary>04_Homework (ChatOps)</summary>**
 Описание ДЗ
 </details>
 
-**<details><summary>05_Homework (Google Cloud Platform)
-</summary>**
+**<details><summary>05_Homework (Google Cloud Platform)</summary>**
 Описание ДЗ
 </details>
 
-**<details><summary>06_Homework (Deploy Test Application)
-</summary>**
+**<details><summary>06_Homework (Deploy Test Application)</summary>**
 Описание ДЗ
 </details>
 
-**<details><summary>07_Homework (Packer)
-</summary>**
+**<details><summary>07_Homework (Packer)</summary>**
 **В рамках HW было изучено:**
 
   * Работа с **`Packer`**:
@@ -41,8 +36,7 @@
    * При развертывании VM из образа `reddit-full`, имеем сразу запущенное приложение, доступное по `<внешний IP>:9292`
 </details>
 
-**<details><summary>08_Homework (Terraform)
-</summary>**
+**<details><summary>08_Homework (Terraform)</summary>**
 **В рамках HW было изучено:**
 
   * Работа с **`Terraform`**:
