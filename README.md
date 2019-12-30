@@ -1,5 +1,6 @@
 # AVAstr_infra
-##(Training Repository OTUS)
+
+## (Training Repository OTUS)
 ---
 **<details><summary>03_Homework (Git)</summary>**
 **В рамках HW было изучено:**
